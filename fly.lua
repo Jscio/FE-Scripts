@@ -212,6 +212,4 @@ function Fly:Stop()
 	end)
 end
 
-Fly:Start()
-
 return Fly
